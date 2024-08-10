@@ -1,0 +1,8 @@
+base64
+requests
+from rich
+inquirer
+locale
+ctypes
+pandas
+tabulate
