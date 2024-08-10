@@ -31,7 +31,7 @@ pip install requests rich inquirer pandas tabulate
 1. Clonez ce dépôt ou téléchargez directement le script.
 
    ```bash
-   git clone https://github.com/sworm/EDM.git
+   git clone https://github.com/swormm/EDM.git
    cd EDM
    ```
 
